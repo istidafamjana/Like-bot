@@ -11,7 +11,7 @@ nest_asyncio.apply()
 
 # إعدادات API والبوت
 API_KEY = '1925045198'
-BOT_TOKEN = "5175709686:AAEs5-jvaCRmoEK8d0Ix8GUHj2ze3uJ0Abk"
+BOT_TOKEN = "7500067602:AAFA-Cwv3w_B2_Ayg0fcN0fCOXG717n_DLA"
 BASE_URL = 'https://smartclownxfreefireinfo.vercel.app/like'
 CHANNEL_ID = -1002349706113  # معرف القناة
 CHANNEL_LINK = "https://t.me/l7aj_ff_group"
